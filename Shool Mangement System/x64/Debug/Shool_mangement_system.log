@@ -1,0 +1,5 @@
+﻿  Source.cpp
+  StudentController.cpp
+C:\Users\57992\Desktop\allpreojects\Shool_mangement_system\Shool_mangement_system\StudentController.cpp(19,6): warning C4101: 'Students_Number': unreferenced local variable
+  Generating Code...
+  Shool_mangement_system.vcxproj -> C:\Users\57992\Desktop\allpreojects\Shool_mangement_system\x64\Debug\Shool_mangement_system.exe

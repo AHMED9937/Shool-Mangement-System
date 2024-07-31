@@ -1,0 +1,256 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\57992\\Desktop\\allpreojects\\Shool_mangement_system\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\57992\\Desktop\\besty\\Classes.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\57992\\Desktop\\allpreojects\\Shool_mangement_system\\Shool_mangement_system\\StorageController.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shool_mangement_system\\StorageController.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\57992\\Desktop\\allpreojects\\Shool_mangement_system\\Shool_mangement_system\\StudentController.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shool_mangement_system\\StudentController.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\57992\\Desktop\\allpreojects\\Shool_mangement_system\\Shool_mangement_system\\SubjectDefinition.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shool_mangement_system\\SubjectDefinition.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\57992\\Desktop\\allpreojects\\Shool_mangement_system\\Shool_mangement_system\\SubjectData.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shool_mangement_system\\SubjectData.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\57992\\Desktop\\allpreojects\\Shool_mangement_system\\Shool_mangement_system\\SubjectController.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shool_mangement_system\\SubjectController.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\57992\\Desktop\\allpreojects\\Shool_mangement_system\\Shool_mangement_system\\StorageController.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shool_mangement_system\\StorageController.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\57992\\Desktop\\allpreojects\\Shool_mangement_system\\Shool_mangement_system\\SubjectController.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shool_mangement_system\\SubjectController.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\57992\\Desktop\\allpreojects\\Shool_mangement_system\\Shool_mangement_system\\StudentController.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shool_mangement_system\\StudentController.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\57992\\Desktop\\allpreojects\\Shool_mangement_system\\Shool_mangement_system\\SubjectData.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shool_mangement_system\\SubjectData.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\57992\\Desktop\\allpreojects\\Shool_mangement_system\\Shool_mangement_system\\SubjectDefinition.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shool_mangement_system\\SubjectDefinition.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\57992\\Desktop\\allpreojects\\Shool_mangement_system\\Shool_mangement_system\\Student.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shool_mangement_system\\Student.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\57992\\Desktop\\allpreojects\\Shool_mangement_system\\Shool_mangement_system\\Student.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shool_mangement_system\\Student.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\57992\\Desktop\\allpreojects\\Shool_mangement_system\\Shool_mangement_system\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shool_mangement_system\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Classes.txt",
+              "DocumentMoniker": "C:\\Users\\57992\\Desktop\\besty\\Classes.txt",
+              "RelativeDocumentMoniker": "..\\..\\besty\\Classes.txt",
+              "ToolTip": "C:\\Users\\57992\\Desktop\\besty\\Classes.txt",
+              "RelativeToolTip": "..\\..\\besty\\Classes.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-03-18T22:03:46.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StorageController.cpp",
+              "DocumentMoniker": "C:\\Users\\57992\\Desktop\\allpreojects\\Shool_mangement_system\\Shool_mangement_system\\StorageController.cpp",
+              "RelativeDocumentMoniker": "Shool_mangement_system\\StorageController.cpp",
+              "ToolTip": "C:\\Users\\57992\\Desktop\\allpreojects\\Shool_mangement_system\\Shool_mangement_system\\StorageController.cpp",
+              "RelativeToolTip": "Shool_mangement_system\\StorageController.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-18T23:16:36.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentController.cpp",
+              "DocumentMoniker": "C:\\Users\\57992\\Desktop\\allpreojects\\Shool_mangement_system\\Shool_mangement_system\\StudentController.cpp",
+              "RelativeDocumentMoniker": "Shool_mangement_system\\StudentController.cpp",
+              "ToolTip": "C:\\Users\\57992\\Desktop\\allpreojects\\Shool_mangement_system\\Shool_mangement_system\\StudentController.cpp",
+              "RelativeToolTip": "Shool_mangement_system\\StudentController.cpp",
+              "ViewState": "AQIAAKsAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-18T23:16:35.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SubjectDefinition.cpp",
+              "DocumentMoniker": "C:\\Users\\57992\\Desktop\\allpreojects\\Shool_mangement_system\\Shool_mangement_system\\SubjectDefinition.cpp",
+              "RelativeDocumentMoniker": "Shool_mangement_system\\SubjectDefinition.cpp",
+              "ToolTip": "C:\\Users\\57992\\Desktop\\allpreojects\\Shool_mangement_system\\Shool_mangement_system\\SubjectDefinition.cpp",
+              "RelativeToolTip": "Shool_mangement_system\\SubjectDefinition.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAIwBkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-18T22:37:47.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SubjectData.cpp",
+              "DocumentMoniker": "C:\\Users\\57992\\Desktop\\allpreojects\\Shool_mangement_system\\Shool_mangement_system\\SubjectData.cpp",
+              "RelativeDocumentMoniker": "Shool_mangement_system\\SubjectData.cpp",
+              "ToolTip": "C:\\Users\\57992\\Desktop\\allpreojects\\Shool_mangement_system\\Shool_mangement_system\\SubjectData.cpp",
+              "RelativeToolTip": "Shool_mangement_system\\SubjectData.cpp",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAnwBgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-18T22:30:29.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SubjectController.cpp",
+              "DocumentMoniker": "C:\\Users\\57992\\Desktop\\allpreojects\\Shool_mangement_system\\Shool_mangement_system\\SubjectController.cpp",
+              "RelativeDocumentMoniker": "Shool_mangement_system\\SubjectController.cpp",
+              "ToolTip": "C:\\Users\\57992\\Desktop\\allpreojects\\Shool_mangement_system\\Shool_mangement_system\\SubjectController.cpp",
+              "RelativeToolTip": "Shool_mangement_system\\SubjectController.cpp",
+              "ViewState": "AQIAAJgAAAAAAAAAAAAYwKkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-18T22:30:31.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StorageController.h",
+              "DocumentMoniker": "C:\\Users\\57992\\Desktop\\allpreojects\\Shool_mangement_system\\Shool_mangement_system\\StorageController.h",
+              "RelativeDocumentMoniker": "Shool_mangement_system\\StorageController.h",
+              "ToolTip": "C:\\Users\\57992\\Desktop\\allpreojects\\Shool_mangement_system\\Shool_mangement_system\\StorageController.h",
+              "RelativeToolTip": "Shool_mangement_system\\StorageController.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-18T22:22:39.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SubjectController.h",
+              "DocumentMoniker": "C:\\Users\\57992\\Desktop\\allpreojects\\Shool_mangement_system\\Shool_mangement_system\\SubjectController.h",
+              "RelativeDocumentMoniker": "Shool_mangement_system\\SubjectController.h",
+              "ToolTip": "C:\\Users\\57992\\Desktop\\allpreojects\\Shool_mangement_system\\Shool_mangement_system\\SubjectController.h",
+              "RelativeToolTip": "Shool_mangement_system\\SubjectController.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-18T22:22:21.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentController.h",
+              "DocumentMoniker": "C:\\Users\\57992\\Desktop\\allpreojects\\Shool_mangement_system\\Shool_mangement_system\\StudentController.h",
+              "RelativeDocumentMoniker": "Shool_mangement_system\\StudentController.h",
+              "ToolTip": "C:\\Users\\57992\\Desktop\\allpreojects\\Shool_mangement_system\\Shool_mangement_system\\StudentController.h",
+              "RelativeToolTip": "Shool_mangement_system\\StudentController.h",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAIwBYAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-18T22:22:03.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SubjectData.h",
+              "DocumentMoniker": "C:\\Users\\57992\\Desktop\\allpreojects\\Shool_mangement_system\\Shool_mangement_system\\SubjectData.h",
+              "RelativeDocumentMoniker": "Shool_mangement_system\\SubjectData.h",
+              "ToolTip": "C:\\Users\\57992\\Desktop\\allpreojects\\Shool_mangement_system\\Shool_mangement_system\\SubjectData.h",
+              "RelativeToolTip": "Shool_mangement_system\\SubjectData.h",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAIwBEAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-18T22:21:24.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SubjectDefinition.h",
+              "DocumentMoniker": "C:\\Users\\57992\\Desktop\\allpreojects\\Shool_mangement_system\\Shool_mangement_system\\SubjectDefinition.h",
+              "RelativeDocumentMoniker": "Shool_mangement_system\\SubjectDefinition.h",
+              "ToolTip": "C:\\Users\\57992\\Desktop\\allpreojects\\Shool_mangement_system\\Shool_mangement_system\\SubjectDefinition.h",
+              "RelativeToolTip": "Shool_mangement_system\\SubjectDefinition.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-18T22:21:03.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Student.cpp",
+              "DocumentMoniker": "C:\\Users\\57992\\Desktop\\allpreojects\\Shool_mangement_system\\Shool_mangement_system\\Student.cpp",
+              "RelativeDocumentMoniker": "Shool_mangement_system\\Student.cpp",
+              "ToolTip": "C:\\Users\\57992\\Desktop\\allpreojects\\Shool_mangement_system\\Shool_mangement_system\\Student.cpp",
+              "RelativeToolTip": "Shool_mangement_system\\Student.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-18T22:14:49.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Student.h",
+              "DocumentMoniker": "C:\\Users\\57992\\Desktop\\allpreojects\\Shool_mangement_system\\Shool_mangement_system\\Student.h",
+              "RelativeDocumentMoniker": "Shool_mangement_system\\Student.h",
+              "ToolTip": "C:\\Users\\57992\\Desktop\\allpreojects\\Shool_mangement_system\\Shool_mangement_system\\Student.h",
+              "RelativeToolTip": "Shool_mangement_system\\Student.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-18T22:14:43.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\57992\\Desktop\\allpreojects\\Shool_mangement_system\\Shool_mangement_system\\Source.cpp",
+              "RelativeDocumentMoniker": "Shool_mangement_system\\Source.cpp",
+              "ToolTip": "C:\\Users\\57992\\Desktop\\allpreojects\\Shool_mangement_system\\Shool_mangement_system\\Source.cpp",
+              "RelativeToolTip": "Shool_mangement_system\\Source.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-18T22:02:51.352Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
