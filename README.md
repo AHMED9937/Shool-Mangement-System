@@ -95,10 +95,4 @@ The `StorageController` class handles saving and loading students and subjects.
 - `Save/Load Students`: Saves or loads student data.
 - `Save/Load Subjects`: Saves or loads subject data.
 
-## Installation
 
-To set up and run this project, follow these steps:
-
-1. **Clone the repository:**
-   ```sh
-   git clone <your-repo-url>
